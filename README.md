@@ -59,7 +59,8 @@ editorial poster for a design conference, Bauhaus-inspired geometric composition
 - `sources.md`: trusted and community sources
 - `movements/`: movement-specific prompt notes
 - `domains/`: campaign and market-specific art direction systems
-- `craft/`: composition, hierarchy, lighting, lenses, materials, and production logic
+- `brands/`: organization-specific visual DNA references
+- `craft/`: composition, hierarchy, lighting, lenses, materials, human diversity, color grades, and production logic
 - `taxonomies/`: large visual style maps for expanding prompt language
 - `checklists/`: quality control before generating images
 - `templates/`: reusable prompt templates by design task

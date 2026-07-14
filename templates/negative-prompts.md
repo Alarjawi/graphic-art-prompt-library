@@ -26,6 +26,12 @@ no mockup, no 3D bevel, no realistic shadows, no complex illustration, no tiny d
 no website layout, no app interface, no readable body text, no chaotic columns, no low-quality stock photography, no distorted faces
 ```
 
+## People And Campaign Photography
+
+```text
+no identical faces, no twin-like people, no cloned citizens, no repeated model face, no same body type on every person, no same height for every adult, no fashion-model casting, no plastic skin, no copy-pasted expressions, no matching outfits unless uniforms are required
+```
+
 ## Packaging Design
 
 ```text

@@ -19,6 +19,7 @@ Use this before generating final prompts.
 
 - Is the environment culturally and architecturally believable?
 - Are people, clothing, gestures, and public spaces accurate?
+- If multiple people appear, do they have distinct ages, faces, heights, body types, expressions, and roles?
 - Are Arabic text and logos avoided unless supplied?
 
 ## Production Quality
@@ -32,6 +33,7 @@ Use this before generating final prompts.
 - Does the prompt block stock-photo output?
 - Does it prevent fake Arabic text?
 - Does it prevent random logos?
+- Does it prevent identical faces, twin-like people, and cloned body types?
 - Does it prevent plastic skin, warped hands, and wrong scale?
 
 ## Final Test
