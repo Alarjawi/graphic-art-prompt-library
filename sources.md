@@ -32,6 +32,15 @@ Use these for prompt structure ideas, keyword patterns, and AI image workflow la
 - The Prompt Artists research paper
   - https://arxiv.org/abs/2303.12253
 
+## Project-Specific Visual References
+
+Use these only as practical visual references supplied by Abu Rama for MOMAH/NHC art direction. They are not general historical or public factual sources.
+
+- MOMAH/NHC Dropbox reference folder: `مكتبة الصور`
+  - Projects observed include `Al-Fursan`, `Al-Jawharah`, `Al-Wajeha`, `Khayala`, `Khuzam`, and `Al-Mashriqya`.
+- MOMAH/NHC Dropbox reference folder: `Media`
+  - Key folders observed include `الحدائق وجودة الحياة`, `المخطط العام - الضواحي والمجتمعات`, `التغطيات الإعلامية`, `الجولات والزيارات`, and `خطة تغطية مشاريع NHC`.
+
 ## Source Rule
 
 If a source is from GitHub or a prompt community, use it for phrasing and workflow only. If a source is from a museum, university, encyclopedia, or design archive, use it for historical claims.

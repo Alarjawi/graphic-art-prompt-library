@@ -31,6 +31,8 @@ Use a contemporary Saudi civic world: Riyadh streets, municipalities, public spa
 
 The world should be real, organized, and humane. It should show systems that work, not abstract technology floating in empty space.
 
+For more specific residential-community reality, use `brands/momah-nhc-residential-urban-reality-reference.md`. It captures observed NHC/MOMAH housing communities, parks, walkways, sports fields, and master-planned district cues from Abu Rama's Dropbox reference folders.
+
 ## Color DNA
 
 Primary cues from the provided logo, website presence, and 2024 visual identity guideline:

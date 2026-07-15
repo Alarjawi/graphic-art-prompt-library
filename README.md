@@ -76,3 +76,8 @@ This library is tuned for senior art direction work, especially:
 - cinematic advertising
 - hyper-realistic advertising imagery
 - Saudi cultural and architectural accuracy
+
+## MOMAH / NHC References
+
+- `brands/ministry-of-municipalities-and-housing-visual-dna.md`: official-facing Ministry visual DNA, colors, typography, and campaign tone.
+- `brands/momah-nhc-residential-urban-reality-reference.md`: observed Saudi residential-community reality from NHC/MOMAH reference folders, including housing architecture, parks, walkways, sports fields, and master-planned community cues.
